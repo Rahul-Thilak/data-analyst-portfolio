@@ -1,10 +1,8 @@
-# 👋 Hello, I'm Rahul Thilak!
+# Rahul The Analyst!
 
-Welcome to my GitHub DA Portfolio! 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. 
-I love solving problems, and I'm curious about learning new tools and techniques.
+## Welcome to my GitHub portfolio! 
 
-🔎 I'm skilled in analyzing datasets, visualizing data, and querying databases to uncover trends, patterns, and actionable insights.
+👋 Hi There, I'm **Rahul Thilak**, a data analyst with a passion for crafting stunning data visualizations and making data-driven decisions that matter to the businesses. Feel free to delve into my projects and don't hesitate to reach out for any inquiries or opportunities for collaboration.
 
 ---
 
@@ -12,12 +10,7 @@ I love solving problems, and I'm curious about learning new tools and techniques
 
 Here are some of the tools and technologies I work with:
 
-- **Excel**   : Advanced data analysis, pivot tables, and reporting.
-- **Power BI**: Interactive dashboards and reporting.
-- **SQL**     : Writing queries, managing databases, and data manipulation.
-- **Python**  : Data analysis with libraries like Pandas and NumPy.
-- **Tableau** : Data visualization and creating insightful dashboards.
-- **Git**     : Version control for collaborative projects.
+<img width="528" height="215" alt="image" src="https://github.com/user-attachments/assets/707a52b2-d396-4bdf-90bc-2b2ffcde63b8" />
 
 ---
 
@@ -25,34 +18,42 @@ Here are some of the tools and technologies I work with:
 
 I’ve worked on several data analysis projects, including but not limited to:
 
-- **[Project 1 Name]**: Description of the project and what you achieved (e.g., data cleaning, visualization, insights).
-- **[Project 2 Name]**: Description of the project and the tools you used (e.g., SQL for querying a database, Power BI for dashboards).
-- **[Project 3 Name]**: Details of the analysis and outcomes (e.g., insights gained, recommendations made).
+- [**Sales Analytics in Excel**](https://github.com/Rahul-Thilak/data-analyst-portfolio/tree/main/Excel%20Sales%20Analytics): This project focuses on creating insightful reports for both sales and finance analytics (P&L), providing businesses with actionable insights to improve performance and achieve strategic goals.
+  
+- [**Business Insights 360**](https://github.com/Rahul-Thilak/data-analyst-portfolio/tree/main/Business%20Insights%20360): delivers a clear view of business performance to find growth opportunities. By analyzing key metrics, we provide actionable insights to help teams make smarter decisions. This project takes a deep dive into areas like finance, sales, marketing, and supply chain. We uncover trends, spot hidden opportunities, and offer ideas to boost performance.
+  
+- [**DataCo. Supplychain Intelligence**](): in progress
 
 ---
 
 ## 📈 How I Can Help
 
-- Data Cleaning 🧹: Removing inconsistencies and preparing raw data for analysis.
-- Data Visualization 📊: Creating interactive dashboards and reports in Power BI or Tableau.
-- SQL Queries 🔍: Writing efficient queries to fetch, manipulate, and analyze data.
-- Insights & Recommendations 📍: Helping businesses make data-driven decisions.
+✔️ Clean and transform messy datasets
+
+✔️ Build interactive & user friendly Power BI dashboards
+
+✔️ Write SQL queries for analysis and reporting
+
+✔️ Discover trends and business opportunities
+
+✔️ Automate repetitive processes and workflows
+
+✔️ Deliver data-driven insights that create impact
+
 
 ---
 
-## 📫 How to Reach Me
+## ✨Looking forward to connecting with you
+"A picture is worth a thousand words. A dashboard is worth a thousand decisions."
 
-- [**LinkedIn**](https://www.linkedin.com/in/rahulthilak/)
-- [Click here to email me](mailto:rahulthilak12@gmail.com) or rahulthilak12@gmail.com
+I believe data tells a story, but great visualizations make that story impossible to ignore. My goal is to transform complex data into clear insights that drive meaningful business outcomes.
+
+Thanks for visiting my portfolio. Let's turn data into action.
 
 Feel free to connect with me or reach out for any collaborations or opportunities in the field of data!
 
----
+ [**LinkedIn**](https://www.linkedin.com/in/rahulthilak/) || [Click here to email me](mailto:rahulthilak12@gmail.com) || Dial on +91 9894 190 115
 
-## ✨ Fun Fact
 
-- I'm a big fan of the saying **"A picture is worth a thousand words."**
 
----
 
-Thanks for visiting my GitHub profile! Let’s collaborate and make sense of data together. 🌟
